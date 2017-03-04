@@ -1,0 +1,10 @@
+.romb {
+  width: 25px;
+  height: 25px;
+  background: white;
+  position:relative;
+  left:130px;
+  transform:rotate(45deg);
+  margin-top:20px;
+  margin-bottom:35px;
+}

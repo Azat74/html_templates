@@ -1,0 +1,10 @@
+.black-btn {
+  width:140px;
+  height:43px;
+  background:black;
+  font-size:14px;
+  text-align:center;
+  border:0;
+  & a {color:white;}
+  &:hover{background:rgba(250,223,173,0.5);}
+}
